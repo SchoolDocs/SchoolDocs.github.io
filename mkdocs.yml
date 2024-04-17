@@ -1,0 +1,54 @@
+site_name: SchoolDocs
+site_url: https://schooldocs.github.io/
+repo_url: https://github.com/SchoolDocs/SchoolDocs.github.io
+repo_name: SchoolDocs
+
+edit_uri: edit/main/docs/
+
+nav:
+  - "Home": "index.md"
+  - "Exploits":
+      - exploits/index.md
+  - "Gmae Sites":
+      - gmae/index.md
+  - "Gmae Sites":
+      - other/index.md
+theme:
+  language: en
+  name: material
+  features:
+    - navigation.indexes 
+    - navigation.instant
+    - navigation.instant.progress
+    - navigation.tabs
+    - navigation.tracking
+    - navigation.tabs.sticky
+    - navigation.top
+    - header.autohide
+    - content.action.edit
+    - content.action.view
+
+
+  icon:
+    logo: material/book
+    repo: fontawesome/brands/github 
+    edit: material/pencil 
+    view: material/code-tags
+
+  palette:
+      scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to system preference
+      primary: green
+      accent: green
+extra:
+  consent:
+    title: Disclaimer
+    description: >- 
+      I am not responsible for any troube you get into by using anything on this site.
+    actions:
+      - accept
+
+copyright: >
+  <a href="#__consent">Disclaimer</a>
