@@ -1,4 +1,4 @@
-site_name: [WORK IN PROGRESS] SchoolDocs
+site_name: "[WORK IN PROGRESS] SchoolDocs"
 site_url: https://schooldocs.github.io/
 repo_url: https://github.com/SchoolDocs/SchoolDocs.github.io
 repo_name: SchoolDocs
@@ -11,7 +11,7 @@ nav:
       - exploits/index.md
   - "Gmae Sites":
       - gmae/index.md
-  - "Gmae Sites":
+  - "Other":
       - other/index.md
 theme:
   language: en
