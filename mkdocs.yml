@@ -44,13 +44,18 @@ theme:
       accent: green
 extra:
   consent:
-    title: Disclaimer
+    title: Cookies
     description: >- 
-      Github saves cookies to your device to track you
+      yes we use them too
     actions:
       - accept
       - reject
 
 copyright: >
   I am not responsible for any troube you get into by using anything on this site.
+  <br />
   <a href="#__consent">Cookies</a>
+extra:
+  analytics:
+    provider: google
+    property: G-M4KZH1FJCC
