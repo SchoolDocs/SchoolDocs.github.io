@@ -50,12 +50,12 @@ extra:
     actions:
       - accept
       - reject
+  analytics:
+    provider: google
+    property: G-M4KZH1FJCC
 
 copyright: >
   I am not responsible for any troube you get into by using anything on this site.
   <br />
   <a href="#__consent">Cookies</a>
 extra:
-  analytics:
-    provider: google
-    property: G-M4KZH1FJCC
