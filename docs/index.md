@@ -5,4 +5,4 @@ hide:
 ---
 
 # SchoolDocs
-### Exploits, Gmae sites, and other stuff for school
+Exploits, Gmae sites, and other stuff for school
