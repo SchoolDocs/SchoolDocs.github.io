@@ -46,9 +46,11 @@ extra:
   consent:
     title: Disclaimer
     description: >- 
-      I am not responsible for any troube you get into by using anything on this site.
+      Github saves cookies to your device to track you
     actions:
       - accept
+      - reject
 
 copyright: >
-  <a href="#__consent">Disclaimer</a>
+  I am not responsible for any troube you get into by using anything on this site.
+  <a href="#__consent">Cookies</a>
