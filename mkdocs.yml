@@ -9,8 +9,8 @@ nav:
   - "Home": "index.md"
   - "Exploits":
       - exploits/index.md
-  - "Gmae Sites":
-      - gmae/index.md
+  - "Unblocked Sites":
+      - unblocked/index.md
   - "Other":
       - other/index.md
 theme:
