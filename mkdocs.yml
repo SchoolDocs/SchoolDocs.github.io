@@ -11,6 +11,7 @@ nav:
       - exploits/index.md
   - "Unblocked Sites":
       - unblocked/index.md
+      - unblocked/gmae.md
   # - "Discord": discord/index.md
   - "Other":
       - other/index.md
@@ -67,3 +68,6 @@ markdown_extensions:
   - pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences

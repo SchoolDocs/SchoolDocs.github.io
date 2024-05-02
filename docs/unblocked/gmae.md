@@ -1,0 +1,8 @@
+# Gmae Sites
+!!! Tip
+    Hover icons for info
+
+| Name         |                                                                                                                                                                        | Comment                                                                                                                                    |                                                                                                |
+| ------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------- |
+| EduTools     | :material-account-hard-hat:{ title="Work in progress/Under construction" } :material-bookmark:{ title="Recommended" } :material-advertisements-off:{ title="No ads" }  | To open click `More coming soon` and then right click: `Github`, `Read Docs`, then `404` and finally press the logo a the bottom to access | [:material-open-in-new:](https://educationaltools.github.io){ .md-button .md-button--primary } |
+| CHSUnblocked | :material-bookmark:{ title="Recommended" } :material-advertisements-off:{ title="No ads" } :material-google:{ title="Google Sites" } :material-auto-fix:{ title="AI" } | No as many games as most, but no ads. Also has tools like chatgpt. Nice UI, but not the best.                                              | [:material-open-in-new:](https://chsunblocked.github.io){ .md-button .md-button--primary }     |
