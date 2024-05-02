@@ -28,6 +28,7 @@ theme:
     - header.autohide
     - content.action.edit
     - content.action.view
+    - content.tooltips
 
 
   icon:
