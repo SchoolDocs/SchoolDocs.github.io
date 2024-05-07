@@ -10,7 +10,8 @@ nav:
   - "Exploits":
       - exploits/index.md
       - "Extension Removal/Bypass":
-          - exploits/extension/LTBEEF.md
+          - "Patched :(":
+            - exploits/extension/LTBEEF.md
   - "Unblocked Sites":
       - unblocked/index.md
       - unblocked/gmae.md
@@ -21,6 +22,7 @@ theme:
   language: en
   name: material
   features:
+    - content.code.copy
     - navigation.indexes 
     - navigation.instant
     - navigation.instant.progress
@@ -73,6 +75,7 @@ markdown_extensions:
   - admonition
   - pymdownx.details
   - pymdownx.superfences
+  - md_in_html
 
 plugins:
   - glightbox
